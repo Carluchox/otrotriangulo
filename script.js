@@ -9,3 +9,4 @@ function triangleTwo() {
         document.write("<br>");
     }
 }
+triangleTwo();
